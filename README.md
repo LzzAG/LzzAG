@@ -1,6 +1,8 @@
 ### Olá! Sou o Lorenzo Garcia.
 
-Sou **Desenvolvedor Full Stack** com background em **Infraestrutura e Segurança**. Atualmente, crio soluções de gestão escolar na Secretaria de Educação de Torres/RS.
+Sou **Estagiário de TI (Desenvolvimento e Suporte)** na Secretaria de Educação de Torres/RS.
+
+Minha atuação vai além do código: combino a resolução de problemas do dia a dia no **Suporte Técnico** com a criação de sistemas **Full Stack** para modernizar a gestão escolar, unindo Infraestrutura, Segurança e Desenvolvimento.
 
 ---
 
