@@ -19,8 +19,8 @@ Minha atuação vai além do código: combino a resolução de problemas do dia 
 
 **🏫 Portal de Matrícula e Rematrícula (Em desenvolvimento)**
 * *Liderança Técnica @ Secretaria de Educação*
-* Sistema Full Stack para digitalizar matrículas municipais, substituindo processos em papel.
-* **Stack:** Django REST Framework, React, TypeScript, PostgreSQL.
+* Sistema Full Stack para digitalizar matrículas e rematrículas municipais, substituindo processos em papel.
+* **Stack:** Python, Django REST Framework, React, TypeScript, PostgreSQL.
 
 **📡 Painel de Conectividade Escolar**
 * *Case de Sucesso @ Secretaria de Educação*
