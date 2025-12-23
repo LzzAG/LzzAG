@@ -10,7 +10,7 @@ Minha atuação vai além do código: combino a resolução de problemas do dia 
 
 * **Backend:** Python (Django/DRF)
 * **Frontend:** React, TypeScript, JavaScript
-* **Infra & Dados:** Docker, PostgreSQL, Linux
+* **Infra & Dados:** Docker, PostgreSQL
 * **Foco de Estudo:** Cibersegurança 
 
 ---
