@@ -35,7 +35,7 @@ Sou **Estagiário em Full Stack & Infraestrutura de TI** na Secretaria de Educa�
 
 * **Engenharia de Software:** Arquitetura e desenvolvimento de soluções Full Stack voltadas à automação de processos administrativos e modernização da gestão escolar.
 * **Sustentação de Infraestrutura:** Administração de ambientes conteinerizados com Docker e gerenciamento de bancos de dados PostgreSQL para sistemas críticos.
-* **Inteligência de Redes:** Gestão proativa de redes LAN/WAN, focada em manter a alta disponibilidade e a segurança dos ativos tecnológicos das unidades escolares.
+* **Gestão de Redes & Suporte:** Sustentação proativa de redes LAN/WAN, com foco no cumprimento de SLAs de chamados técnicos para garantir a alta disponibilidade das unidades escolares.
 
 ---
 
