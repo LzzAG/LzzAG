@@ -1,46 +1,25 @@
-# Olá, eu sou o Lorenzo Garcia 👋
+# Full Stack Developer | Cyber Security Student
 
-Sou **Estagiário em Full Stack & Infraestrutura de TI** na Secretaria de Educação de Torres/RS. Minha atuação no momento foca na **transformação digital de serviços públicos**, desenvolvendo ecossistemas de software escaláveis e garantindo a resiliência da infraestrutura tecnológica que atende a rede municipal de ensino.
+Olá, sou **Lorenzo Garcia** — um desenvolvedor Full Stack focado em construir soluções robustas e seguras para infraestrutura educacional e corporativa. Atualmente, dedico meu trabalho a modernizar processos através de softwares e fortalecer a segurança no setor público.
 
----
+Me especializo no desenvolvimento de aplicações escaláveis utilizando **Python (Django)** e **React (TypeScript)**. Tenho sólida experiência na implementação de bancos de dados **PostgreSQL** e orquestração de ambientes com **Docker**, sempre prezando por uma arquitetura limpa e alta performance.
 
-### 🛠️ Tech Stack & Ferramentas
+Minha stack principal envolve **Python** e **TypeScript**, com foco constante em segurança da informação e automação de processos. Trabalho ativamente no desenvolvimento de ferramentas que garantem a integridade e a disponibilidade de serviços críticos.
 
-* **Backend:** Python, Django (DRF).
-* **Frontend:** React, TypeScript, JavaScript, Tailwind CSS.
-* **Infra & Dados:** Docker, PostgreSQL.
+Sou o criador do **BiblioTech** — uma plataforma de gestão de bibliotecas para escolas municipais, e do **USB Sentinel**, um software de segurança focado em bloquear dispositivos USB não autorizados. Também desenvolvi o **Internet Monitor**, um dashboard para acompanhamento em tempo real da conectividade de unidades escolares.
 
----
+Meu foco é o design de sistemas eficientes, ergonomia de software e otimização de infraestrutura. Meu objetivo é simples: construir sistemas que escalam, duram e resolvem problemas técnicos complexos com eficiência.
 
-### 🚀 Projetos em Destaque
-
-#### 📊 Painel de Conectividade Escolar
-* **O que é:** Dashboard em tempo real para monitoramento da rede das 18 escolas municipais.
-* **Impacto:** Redução drástica no downtime escolar através de alertas preventivos e diagnóstico rápido de falhas de conexão.
-* **Stack:** Python, Django, Docker, JavaScript Vanilla.
-
-#### 📚 BiblioTech
-* **O que é:** Sistema completo de gestão para bibliotecas escolares, automatizando o controle de empréstimos e a organização do acervo.
-* **Impacto:** Digitalização da gestão pedagógica municipal, substituindo processos manuais e garantindo integridade aos dados de leitura da rede.
-* **Stack:** Python/Django, React, TypeScript, PostgreSQL.
-
-#### 🛡️ USB Sentinel
-* **O que é:** Software de segurança de endpoint focado no bloqueio de hardware não autorizado em terminais públicos.
-* **Impacto:** Mitigação de vetores de ataque físicos e proteção da integridade dos dados em computadores administrativos e escolares.
-* **Stack:** Python, Django Rest Framework, Win32 API, WMI.
+Você pode encontrar mais sobre meu trabalho e projetos em [lorenzogarcia.com.br](https://lorenzogarcia.com.br).
 
 ---
 
-### 📊 Atuação Profissional (Secretaria de Educação)
+### Tech Stack & Tools
 
-* **Engenharia de Software:** Arquitetura e desenvolvimento de soluções Full Stack voltadas à automação de processos administrativos e modernização da gestão escolar.
-* **Sustentação de Infraestrutura:** Administração de ambientes conteinerizados com Docker e gerenciamento de bancos de dados PostgreSQL para sistemas críticos.
-* **Gestão de Redes & Suporte:** Sustentação proativa de redes LAN/WAN, com foco no cumprimento de SLAs de chamados técnicos para garantir a alta disponibilidade das unidades escolares.
-
----
-
-### 📫 Vamos conversar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzoalvesgarcia/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lorenzoalvesgarcia1@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://www.lorenzogarcia.com.br/#home)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
