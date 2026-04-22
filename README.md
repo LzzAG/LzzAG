@@ -6,7 +6,7 @@ Me especializo no desenvolvimento de aplicações utilizando **Python (Django)**
 
 Minha stack principal envolve **Python** e **TypeScript**, com foco constante em segurança da informação e automação de processos. Desenvolvo ferramentas práticas que garantem a disponibilidade de serviços críticos e a proteção de dados.
 
-Sou o criador do **BiblioTech** — uma plataforma de gestão de bibliotecas para escolas municipais, e do **USB Sentinel**, um software de segurança focado em controle de endpoints e bloqueio de dispositivos não autorizados. Também desenvolvi o **Internet Monitor**, um dashboard para acompanhamento em tempo real da conectividade de unidades escolares.
+Sou o criador do **BiblioTech** — uma plataforma de gestão de bibliotecas para escolas municipais, e do **USB Sentinel**, um software de segurança focado em controle de endpoints e bloqueio de dispositivos não autorizados. Também desenvolvi o **EduSignal**, um dashboard para acompanhamento em tempo real da conectividade de unidades escolares.
 
 Meu foco é o design de sistemas funcionais, ergonomia de software e otimização de infraestrutura. Meu objetivo é evoluir continuamente na construção de sistemas que escalam e resolvem problemas técnicos reais com precisão.
 
@@ -22,4 +22,3 @@ Você pode encontrar mais sobre meu trabalho e projetos em [lorenzogarcia.com.br
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
